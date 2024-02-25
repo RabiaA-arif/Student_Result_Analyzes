@@ -17,7 +17,8 @@ Proposed Solution:
 #Create informative visualizations (pie chart, boxplots, , heatmaps) to reveal hidden patterns, correlations, and distribution of scores.
 # Identifying high-performing students and classes:
 #Analyze factors contributing to success, allowing for targeted interventions and support.
-# Communicating insights clearly: Present findings in a clear, concise, and visually appealing manner using interactive dashboards or reports.
+# Communicating insights clearly:
+#Present findings in a clear, concise, and visually appealing manner using interactive dashboards or reports.
 
 # Impact and Benefits:
 
